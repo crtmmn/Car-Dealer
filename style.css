@@ -1,0 +1,32 @@
+html {
+    background-color: #0c0f0a;
+    color: white;
+    font-size: 150%;
+}
+input {
+    background-color: #50c878;
+    color: #0c0f0a;
+    font-weight: bolder;
+    border: none;
+    font-size: 100%;
+}
+hr {
+    width: 40%;
+    border-radius: 20%;
+}
+#addCar, #cars, #listOfCars {
+    text-align: center;
+}
+
+button {
+    background-color: #50c878;
+    color: #0c0f0a;
+    font-weight: bolder;
+    border: none;
+    font-size: 100%;
+}
+
+#cars {
+    display: flex;
+    flex-wrap: wrap;
+}
